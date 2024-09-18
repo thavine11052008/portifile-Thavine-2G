@@ -4,7 +4,7 @@
   --cor-texto:#A10ED6;
 }
 
-body{ 
+body{
   background-color: var (--cor-fundo);
   color: var (--cor-texto);
 }
@@ -22,7 +22,7 @@ a {
 }
 .foto{
   height: 490;
-  
+
 }
 
   
